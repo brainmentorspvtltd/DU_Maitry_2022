@@ -1,0 +1,38 @@
+Data Collections in Python
+- Strings
+  - collection of text, words, letters...
+  - represented by "hello", 'hello', """hello""", '''hello''''
+  - strings are immutable
+- List
+  - collection of any type of data
+  - represented by [3,5,32,"hello", [3,547,1]]
+- Tuples
+  - similar to list, but immutable
+  - represented by (3,5,5,2)
+- Dictionary
+  - collection of data in key and value pair
+  - represented by {"name" : "John", dept : "IT"}
+- Set
+  - collection of unordered and unique data
+  - represented by {4,3,6,8,1}
+
+
+Strings
+- internally they are character array
+
+- Indexing
+- Slicing
+- Methods
+
+
+
+
+
+
+
+
+
+
+
+
+
