@@ -29,6 +29,7 @@ while True:
             # quit python
             quit()
 
+        # KEYDOWN - Pressing a key
         if event.type == pygame.KEYDOWN:
             if event.key == pygame.K_RIGHT:
                 move_x = 0.5
